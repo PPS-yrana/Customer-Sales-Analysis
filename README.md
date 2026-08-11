@@ -125,4 +125,4 @@ Customer-Sales-Analysis/
     ├── customer_analysis.png
     ├── pivot_table.png
     ├── sales_dashboard.png
-    └── churn_analysis.png
+
